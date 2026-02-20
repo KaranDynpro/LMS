@@ -4,7 +4,7 @@
 
 /* Background */
 ion-content {
-  --background: #f5f7fb !important;
+  --background: #2662da !important;
 }
 
 /* Cards */
@@ -31,4 +31,5 @@ ion-item {
 ion-tab-bar {
   border-radius: 18px 18px 0 0 !important;
   box-shadow: 0 -4px 12px rgba(0,0,0,0.08) !important;
+
 }
