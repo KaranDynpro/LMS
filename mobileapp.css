@@ -9,6 +9,7 @@ ion-content {
 
 /* Cards */
 ion-card {
+  background: red !important;
   border-radius: 20px !important;
   box-shadow: 0 6px 18px rgba(0,0,0,0.08) !important;
   margin: 14px !important;
@@ -33,3 +34,4 @@ ion-tab-bar {
   box-shadow: 0 -4px 12px rgba(0,0,0,0.08) !important;
 
 }
+
